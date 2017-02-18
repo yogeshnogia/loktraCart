@@ -1,3 +1,5 @@
+## Download the zip and run on server.( not able to run it live on gihub pages ).
+
 ## 1. Shopping Cart
 
 Your task is to implement a basic shopping cart for a website, following these basic rules:
