@@ -1,4 +1,4 @@
-## Download the zip and run on server.( not able to run it live on gihub pages ).
+## [Live Preview](https://yogeshnogia.github.io/loktraCart/)
 
 ## 1. Shopping Cart
 
