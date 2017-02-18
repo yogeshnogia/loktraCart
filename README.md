@@ -1,3 +1,5 @@
+## [Live Preview](https://yogeshnogia.github.io/loktraCart/)
+
 ## 1. Shopping Cart
 
 Your task is to implement a basic shopping cart for a website, following these basic rules:
